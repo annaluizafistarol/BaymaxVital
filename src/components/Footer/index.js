@@ -11,12 +11,12 @@ const Footer = () => {
             </div>
             <ul className='contact'>
                 <li>
-                    <a href='https://www.linkedin.com/in/anna-luiza-camargo-fistarol/'>
+                    <a href='https://www.linkedin.com/in/anna-luiza-fistarol/'>
                         <FontAwesomeIcon icon={faLinkedinIn} />
                     </a>
                 </li>
                 <li>
-                    <a href='https://github.com/annaluizacamargo'>
+                    <a href='https://github.com/annaluizafistarol'>
                         <FontAwesomeIcon icon={faGithubAlt} />
                     </a>
                 </li>
